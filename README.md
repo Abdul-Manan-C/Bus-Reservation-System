@@ -47,7 +47,7 @@ Built as a university project (BSCS — UAJK) to practice procedural programming
 
 ---
 
-## `$ autocore --features` → `$ ./reservation_system --features`
+## `$ ./reservation_system --features`
 
 ### What it does
 
